@@ -1,0 +1,27 @@
+{
+  "name": "audio_project",
+  "version": "1.0.0",
+  "description": "tranform audio in text format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergio9104/audioProject.git"
+  },
+  "keywords": [
+    "audio",
+    "transform"
+  ],
+  "author": "sergio valencia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergio9104/audioProject/issues"
+  },
+  "homepage": "https://github.com/sergio9104/audioProject#readme",
+  "dependencies": {
+    "connect": "^3.6.2",
+    "serve-static": "^1.12.3"
+  }
+}
